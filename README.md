@@ -1,5 +1,7 @@
 # Windows Force Delete
 
+![screenshot of popup](image.png)
+
 A helpful Windows app that allows you to force delete files and folders that are locked by other processes.
 
 > It also allows you to kill the processes holding the files/folders.
