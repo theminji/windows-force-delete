@@ -15,3 +15,7 @@ A helpful Windows app that allows you to force delete files and folders that are
 2. Click on "Force Delete".
 3. The application will open and show you the processes that are locking the file or folder.
 4. Click on "Kill Locking Tasks" to kill the processes. Or, click on "Force Delete" to delete the file or folder.
+
+## Test it
+
+You can test it simply by running `python lock_file.py` and it will lock a file (test.txt) so that you can test the app.
