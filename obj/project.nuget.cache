@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pe8XEoyUoN8=",
+  "success": true,
+  "projectFilePath": "D:\\ForceDelete\\ForceDeleteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheGoat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

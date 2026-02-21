@@ -1,0 +1,14 @@
+D:\ForceDelete\bin\Release\net8.0-windows\win-x64\ForceDeleteApp.exe
+D:\ForceDelete\bin\Release\net8.0-windows\win-x64\ForceDeleteApp.deps.json
+D:\ForceDelete\bin\Release\net8.0-windows\win-x64\ForceDeleteApp.runtimeconfig.json
+D:\ForceDelete\bin\Release\net8.0-windows\win-x64\ForceDeleteApp.dll
+D:\ForceDelete\bin\Release\net8.0-windows\win-x64\ForceDeleteApp.pdb
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.AssemblyInfoInputs.cache
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.AssemblyInfo.cs
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.csproj.CoreCompileInputs.cache
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.dll
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\refint\ForceDeleteApp.dll
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.pdb
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ForceDeleteApp.genruntimeconfig.cache
+D:\ForceDelete\obj\Release\net8.0-windows\win-x64\ref\ForceDeleteApp.dll
